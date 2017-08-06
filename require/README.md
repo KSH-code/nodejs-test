@@ -3,7 +3,7 @@ require를 변수로 선언해서 사용하고 안하고의 performance를 비�
 ![nodeclare.png](./nodeclare.png) VS ![variable](./variable.png)
 
 ## Average
-변수를 선언하지 않고 VS 선언하고
+변수를 선언하지 않고 VS 선언하고<br>
 6,988ms VS 21.9ms
 
 ## Source Code
