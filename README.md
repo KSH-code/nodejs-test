@@ -1,5 +1,7 @@
 # nodejs-performance-test
 
+## 2017-09-13
+[promise](./promise)
 ## 2017-08-24
 [require](./mysqlpool)
 ## 2017-08-06
