@@ -1,6 +1,6 @@
 # TODO
-* compare two objects
 # END
+- [x] [compare two object](./compare/object.js) **2017-01-26**
 ## 2017-09-13
 [promise](./promise)
 ## 2017-08-24
