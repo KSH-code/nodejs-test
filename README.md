@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [require object](./require-object/index.js) **2018-01-29**
 - [x] [compare two object](./compare/object.js) **2017-01-26**
 ## 2017-09-13
 [promise](./promise)
