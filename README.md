@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [for](./for/index.js) **2018-01-31**
 - [x] [file order](./file-order/index.js) **2018-01-30**
 - [x] [try catch return](./try-catch/index.js) **2018-01-30**
 - [x] [require object](./require-object/index.js) **2018-01-29**
