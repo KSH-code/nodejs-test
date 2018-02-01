@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [mongoose static](./mongoose/static.js) **2018-02-01**
 - [x] [object keys](./object/keys.js) **2018-02-01**
 - [x] [object values](./object/values.js) **2018-02-01**
 - [x] [async function](./async/index.js) **2018-02-01**
