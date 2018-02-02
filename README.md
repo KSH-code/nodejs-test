@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [mongoose index save](./mongoose/save.js) **2018-02-02**
 - [x] [mongoose index delete](./mongoose/delete.js) **2018-02-02**
 - [x] [mongoose static](./mongoose/static.js) **2018-02-01**
 - [x] [object keys](./object/keys.js) **2018-02-01**
