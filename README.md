@@ -1,5 +1,7 @@
 # TODO
 # END
+- [x] [mongoose multiple index](./mongoose/multiple.js) **2018-02-06**
+- [x] [comment](./comment/test.js) **2018-02-05**
 - [x] [json end](./express/end.js) **2018-02-05**
 - [x] [delete duplicated array value](./array/duplicated.js) **2018-02-05**
 - [x] [exports](./export/test.js) **2018-02-05**
