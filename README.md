@@ -1,5 +1,7 @@
 # TODO
 # END
+- [x] [fill array](./array/fill.js) **2018-02-08**
+- [x] [init array](./array/init.js) **2018-02-08**
 - [x] [mongoose index find](./mongoose/find.js) **2018-02-06**
 - [x] [mongoose callback function](./mongoose/callback.js) **2018-02-06**
 - [x] [mongoose multiple index](./mongoose/multiple.js) **2018-02-06**
