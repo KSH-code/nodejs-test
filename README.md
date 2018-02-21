@@ -1,5 +1,8 @@
 # TODO
 # END
+- [x] [mongoose-validator](./mongoose/validator.js) **2018-02-21**
+- [x] [jwt-verify](./jwt/verify.js) **2018-02-21**
+- [x] [assign](./object/assign.js) **2018-02-09**
 - [x] [fill array](./array/fill.js) **2018-02-08**
 - [x] [init array](./array/init.js) **2018-02-08**
 - [x] [mongoose index find](./mongoose/find.js) **2018-02-06**
