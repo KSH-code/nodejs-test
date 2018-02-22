@@ -1,6 +1,7 @@
 function f1 () {
-  for (let i = 0; i < 1e+10; i++);
+  for (let i = 0; i < 1e+9; i++);
   console.log('f1 end')
+  return true
 }
-f1.call(this)
+console.log(f1.call(this))
 console.log('end')
