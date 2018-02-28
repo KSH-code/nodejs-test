@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [mongoose-upsert](mongoose/upsert.js) **2018-02-28**
 - [x] [promise-all](./promise/all.js) **2018-02-23**
 - [x] [call](./call/test.js) **2018-02-22**
 - [x] [mongoose-find-undefined](./mongoose/find-undefined.js) **2018-02-21**
