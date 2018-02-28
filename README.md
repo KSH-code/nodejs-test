@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [return-object-type](object/type.js) **2018-02-28**
 - [x] [mongoose-upsert](mongoose/upsert.js) **2018-02-28**
 - [x] [promise-all](./promise/all.js) **2018-02-23**
 - [x] [call](./call/test.js) **2018-02-22**
