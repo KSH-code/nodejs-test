@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [await-performance](await/performance.js) **2018-02-28**
 - [x] [return-object-type](object/type.js) **2018-02-28**
 - [x] [mongoose-upsert](mongoose/upsert.js) **2018-02-28**
 - [x] [promise-all](./promise/all.js) **2018-02-23**
