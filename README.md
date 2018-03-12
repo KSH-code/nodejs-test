@@ -1,5 +1,12 @@
 # TODO
 # END
+- [x] [rabbitmq-performance](rabbitmq/performance.js) **2018-03-02**
+- [x] [wifi-disconnect](wifi/disconnect.js) **2018-03-08**
+- [x] [rabbitmq-tutorial](rabbitmq/tutorial5.js) **2018-03-08**
+- [x] [rabbitmq-tutorial](rabbitmq/tutorial4.js) **2018-03-08**
+- [x] [rabbitmq-tutorial](rabbitmq/tutorial3.js) **2018-03-08**
+- [x] [rabbitmq-tutorial](rabbitmq/tutorial2.js) **2018-03-08**
+- [x] [rabbitmq-tutorial](rabbitmq/tutorial.js) **2018-03-08**
 - [x] [await-performance](await/performance.js) **2018-02-28**
 - [x] [return-object-type](object/type.js) **2018-02-28**
 - [x] [mongoose-upsert](mongoose/upsert.js) **2018-02-28**
