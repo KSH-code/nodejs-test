@@ -1,6 +1,7 @@
 # TODO
 # END
-- [x] [rabbitmq-performance](rabbitmq/performance.js) **2018-03-02**
+- [x] [rabbitmq-ack](rabbitmq/ack.js) **2018-03-13**
+- [x] [rabbitmq-performance](rabbitmq/performance.js) **2018-03-12**
 - [x] [wifi-disconnect](wifi/disconnect.js) **2018-03-08**
 - [x] [rabbitmq-tutorial](rabbitmq/tutorial5.js) **2018-03-08**
 - [x] [rabbitmq-tutorial](rabbitmq/tutorial4.js) **2018-03-08**
