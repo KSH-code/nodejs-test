@@ -1,5 +1,8 @@
 # TODO
 # END
+- [x] [rabbitmq-close-connection](rabbitmq/close-connection.js) **2018-03-13**
+- [x] [rabbitmq-close-channel](rabbitmq/close-channel.js) **2018-03-13**
+- [x] [rabbitmq-reject](rabbitmq/reject.js) **2018-03-13**
 - [x] [rabbitmq-ack](rabbitmq/ack.js) **2018-03-13**
 - [x] [rabbitmq-performance](rabbitmq/performance.js) **2018-03-12**
 - [x] [wifi-disconnect](wifi/disconnect.js) **2018-03-08**
