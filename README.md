@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [mongoose wrapping insertmany](./mongoose/wrapping-insertmany.js) **2018-03-23**
 - [x] [rabbitmq-close-connection](rabbitmq/close-connection.js) **2018-03-13**
 - [x] [rabbitmq-close-channel](rabbitmq/close-channel.js) **2018-03-13**
 - [x] [rabbitmq-reject](rabbitmq/reject.js) **2018-03-13**
