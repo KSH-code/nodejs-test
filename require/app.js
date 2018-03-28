@@ -1,8 +1,8 @@
-module.exports = function(i, j) {
+module.exports = function(ii, jj) {
     return {
         repeat: function repeat() {
-            for (i = 0; i < j; i++) {
-                for (i = 0; i < j; i++) {}
+            for (let i = 0; i < ii; i++) {
+                for (let j = 0; jj < jj; j++) {}
             }
         }
     }

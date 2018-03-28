@@ -6,10 +6,10 @@
  * @desc [declare variable]
  */
 var app = require('./app')
-console.time('alpha')
+console.time('variable')
 for (i = 0; i < 1000; i++) {
     for (j = 0; j < 1000; j++) {
         app(i, j).repeat()
     }
 }
-console.timeEnd('alpha')
+console.timeEnd('variable')
