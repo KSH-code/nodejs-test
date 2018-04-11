@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [mongoose-upsert](mongoose/hasNext.js) **2018-04-11**
 - [x] [tick](./process/tick.js) **2018-04-06**
 - [x] [loadtest](./loadtest/README.md) **2018-03-29**
 - [x] [require](./require/README.md) **2018-03-28**
