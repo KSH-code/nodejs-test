@@ -16,16 +16,12 @@ mongoose.connect(`mongodb://localhost/test`, err => {
   )
   const model = mongoose.model('mongoose-hasNext-test', schema)
     ; (async function () {
-        for (let i = 0; i < 1e6; i++) {
+        for (let i = 0; i < 1e4; i++) {
             await new model({ name: `${i}` }).save()
         }
-        const f = model.collection.find()
-        console.log(await model.collection.count())
-        console.time('end')
-        while (f.hasNext()) {
-          await f.next()
+        for (let i = 0; i < 1e4; i++) {
+            await model.find()
         }
-        console.timeEnd('end')
       mongoose.disconnect()
     })()
 })
