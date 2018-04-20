@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [async-vs-promise](async/promise.js) **2018-04-20**
 - [x] [rabbitmq-socket](rabbitmq/socket.js) **2018-04-12**
 - [x] [redis-socket](redis/socket.js) **2018-04-12**
 - [x] [mongoose-socket](mongoose/socket.js) **2018-04-12**
