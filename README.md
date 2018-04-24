@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [clustering-express](clustering/README.md) **2018-04-24**
 - [x] [array-reference](array/reference.js) **2018-04-20**
 - [x] [async-vs-promise](async/promise.js) **2018-04-20**
 - [x] [rabbitmq-socket](rabbitmq/socket.js) **2018-04-12**
