@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [moment-timezone](moment-timezone/index.js) **2018-04-25**
 - [x] [clustering-express](clustering/README.md) **2018-04-24**
 - [x] [array-reference](array/reference.js) **2018-04-20**
 - [x] [async-vs-promise](async/promise.js) **2018-04-20**
