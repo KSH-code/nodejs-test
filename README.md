@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [rabbitmq-messageCount](rabbitmq/messageCount.js) **2018-05-03**
 - [x] [rabbitmq-consumer](rabbitmq/consumer.js) **2018-04-27**
 - [x] [moment-timezone](moment-timezone/index.js) **2018-04-25**
 - [x] [clustering-express](clustering/README.md) **2018-04-24**
