@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [string-length](length/string.js) **2018-05-14**
 - [x] [rabbitmq-messageCount](rabbitmq/messageCount.js) **2018-05-03**
 - [x] [rabbitmq-consumer](rabbitmq/consumer.js) **2018-04-27**
 - [x] [moment-timezone](moment-timezone/index.js) **2018-04-25**
