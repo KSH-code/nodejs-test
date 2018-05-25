@@ -1,3 +1,5 @@
+// keysa: 0.311ms
+// keysb: 905.451ms
 const a = {}
 const b = {}
 for (let i = 0; i < 1000; i++) {
