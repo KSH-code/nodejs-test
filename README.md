@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [throw in promise](throw/in-promise.js) **2018-05-28**
 - [x] [object-keys-performance](object/keys-performance.js) **2018-05-25**
 - [x] [sinon](sinon/test.js) **2018-05-15**
 - [x] [string-length](length/string.js) **2018-05-14**
