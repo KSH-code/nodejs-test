@@ -1,5 +1,7 @@
 # TODO
 # END
+- [x] [mongoose-change-array](mongoose/change-array.js) **2018-06-04**
+- [x] [mongoose-save-vs-upsert](mongoose/save-vs-upsert.js) **2018-05-29**
 - [x] [throw in promise](throw/in-promise.js) **2018-05-28**
 - [x] [object-keys-performance](object/keys-performance.js) **2018-05-25**
 - [x] [sinon](sinon/test.js) **2018-05-15**
