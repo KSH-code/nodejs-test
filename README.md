@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [lodash-uniq vs my code](lodash/uniq.js) **2018-06-05**
 - [x] [mongoose-change-array](mongoose/change-array.js) **2018-06-04**
 - [x] [mongoose-save-vs-upsert](mongoose/save-vs-upsert.js) **2018-05-29**
 - [x] [throw in promise](throw/in-promise.js) **2018-05-28**
