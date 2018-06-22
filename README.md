@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [throw in http in promise](./throw/request-promise.js) **2018-06-22**
 - [x] [express-status](./express/status.js) **2018-06-07**
 - [x] [lodash-uniq vs my code](lodash/uniq.js) **2018-06-05**
 - [x] [mongoose-change-array](mongoose/change-array.js) **2018-06-04**
