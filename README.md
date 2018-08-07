@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [mongoose-save-without-_id](mongoose/save-without-_id.js) **2018-08-07**
 - [x] [mongoose-limit-string](mongoose/limit-string.js) **2018-07-13**
 - [x] [throw in http in promise](./throw/request-promise.js) **2018-06-22**
 - [x] [express-status](./express/status.js) **2018-06-07**
