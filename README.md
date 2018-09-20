@@ -1,5 +1,6 @@
 # TODO
 # END
+- [x] [async-vs-normal](async/performance.js) **2018-09-20**
 - [x] [require-function](require/performance.js) **2018-09-20**
 - [x] [mongoose-save-without-_id](mongoose/save-without-_id.js) **2018-08-07**
 - [x] [mongoose-limit-string](mongoose/limit-string.js) **2018-07-13**
